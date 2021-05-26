@@ -29,6 +29,9 @@ github_username:  johanburati
 
 # Build settings
 #theme: jekyll-theme-tactile
+#theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+#
 plugins:
   - jekyll-feed
 
