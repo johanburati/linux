@@ -29,8 +29,10 @@ github_username:  johanburati
 
 # Build settings
 #theme: jekyll-theme-tactile
-theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes"
+#theme: "minimal-mistakes-jekyll"
+#remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 #
 plugins:
   - jekyll-feed
